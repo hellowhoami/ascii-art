@@ -1,2 +1,2 @@
 # ascii-art
-Shell-scripts archive for generating ASCII art in term.  
+Shell-scripts archive for generating ASCII art in shell.
