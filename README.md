@@ -1,7 +1,7 @@
 # ascii-art
 Shell-scripts archive for echoing ASCII art in shell.
 
-This takes advantage of Github's CLI to transfer and incorporate ASCII art to a command-line-only Linux machine.
+This takes advantage of Github's CLI to transfer and incorporate ASCII art intto a command-line-only Linux machine.
 
 # Examples:
 
