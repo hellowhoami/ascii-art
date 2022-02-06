@@ -23,11 +23,12 @@ Download the archive:
 ```
 ~$ git clone https://github.com/hellowhoami/ascii-art.git
 ```
-Make a script executable:
+Make a script executable & run:
 ```
 ~$ sudo chmod u+x ascii-art/scripts/cilantro.sh
-```
-Run a script:
-```
 ~$ ./ascii-art/scripts/cilantro.sh
+```
+Or use:
+```
+~$ bash /ascii-art/scripts/cilantro.sh
 ```
